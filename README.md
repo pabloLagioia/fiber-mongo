@@ -1,7 +1,7 @@
 #How to use it
 
 ```
-var mongo = require("fiber-mongo.js")("mongodb://localhost:27017/myMongoDB");
+var mongo = require("fiber-mongo")("mongodb://localhost:27017/myMongoDB");
 var Fiber = require("fibers");
 
 Fiber(function() {
