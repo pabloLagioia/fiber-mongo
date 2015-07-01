@@ -11,5 +11,9 @@
     "fibers",
     "sync"
   ],
+   "author": {
+      "name": "Pablo Lagioia",
+      "email": "pablo.lagioia@gmail.com"
+  },
   "main": "./fibermongo"
 }
