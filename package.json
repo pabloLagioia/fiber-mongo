@@ -1,7 +1,7 @@
 {
   "name": "fiber-mongo",
   "description": "A simple library to use mongodb sync",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "fibers": "1.0.5",
     "mongodb": "1.4.33"
@@ -10,5 +10,6 @@
     "mongodb",
     "fibers",
     "sync"
-  ]
+  ],
+  "main": "./fibermongo"
 }
